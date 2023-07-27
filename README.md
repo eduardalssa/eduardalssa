@@ -2,15 +2,18 @@
 
 <!--
 **eduardalssa/eduardalssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oie! Eu sou a Duda 👋
+#### Estudante de Ciência da Computação na UERJ
+![Estudante de Ciência da Computação na UERJ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Estou aqui para compartilhar alguns dos meus projetos e estudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python & C 
+
+- 🌱 Atualmente aprendendo SQL 
+- 📫 Entre em contato comigo pelo LinkedIn 
+
+
+
+
+
